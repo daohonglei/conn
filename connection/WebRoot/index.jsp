@@ -37,7 +37,7 @@
 				});
 				function insertUpload(data) {
 					//...回调函数
-					alert(date+"tttttttttttttttttttttttttt");
+					//alert(date+"tttttttttttttttttttttttttt");
 				}
 			})
 		</script>
